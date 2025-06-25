@@ -14,10 +14,6 @@ Browse a wide range of remote DevOps Engineer positions available globally. New 
 
 * **[Staff Software Engineer - SRE, Backend (Reliability Engineering)](https://job-boards.greenhouse.io/affirm/jobs/6356178003)** — _n/a_ _(posted 2025-05-21)_
 
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ccrorvk5avxtpdxi77lc.webp" width="24" height="24" alt="Apollo.io logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Apollo.io](https://jobo.world/company/Apollo-io)
-
-* **[Senior Frontend Engineer](https://job-boards.greenhouse.io/apolloio/jobs/5394326004)** — _n/a_ _(posted 2025-05-16)_
-
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/aeadxji1ji1odjlxqmsp.webp" width="24" height="24" alt="Ashby logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Ashby](https://jobo.world/company/Ashby)
 
 * **[Principal Platform Engineer - Americas](https://jobs.ashbyhq.com/ashby/213c15c5-8e96-4fce-82da-dab268edc4c0)** — ¤200,000 – ¤260,000 USD _(posted 2025-06-16)_
@@ -55,6 +51,7 @@ Browse a wide range of remote DevOps Engineer positions available globally. New 
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/hzuavimik16xkwurk8st.webp" width="24" height="24" alt="Cribl logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Cribl](https://jobo.world/company/Cribl)
 
+* **[Senior Software Engineer](https://job-boards.greenhouse.io/cribl/jobs/5568690004)** — _n/a_ _(posted 2025-06-24)_
 * **[Manager, Software Engineering, Cribl Lake](https://job-boards.greenhouse.io/cribl/jobs/5560176004)** — _n/a_ _(posted 2025-06-07)_
 * **[Principal Site Reliability Engineer](https://job-boards.greenhouse.io/cribl/jobs/5516726004)** — _n/a_ _(posted 2025-05-30)_
 * **[Senior Performance Engineer](https://job-boards.greenhouse.io/cribl/jobs/5498039004)** — ¤165,000 – ¤195,000 USD _(posted 2025-04-15)_
@@ -62,6 +59,7 @@ Browse a wide range of remote DevOps Engineer positions available globally. New 
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/qogfqwtschjchtjlzyr3.webp" width="24" height="24" alt="Crowdstrike logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Crowdstrike](https://jobo.world/company/Crowdstrike)
 
+* **[Continuous Improvement Engineer (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Continuous-Improvement-Engineer--Remote-_R23611)** — _n/a_ _(posted 2025-06-23)_
 * **[Sr. Detections Content Operations Engineer (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Sr-Detections-Content-Operations-Engineer--Remote-_R23529)** — _n/a_ _(posted 2025-06-18)_
 * **[Manager, Network Reliability Engineering (Remote, East Coast)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote-FL/Manager--Network-Reliability-Engineering--Remote--East-Coast-_R23495)** — _n/a_ _(posted 2025-06-17)_
 * **[Sr. Problem Management Engineer – Engineering Service Management (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote-CA/Sr-Problem-Management-Engineer---Engineering-Service-Management--Remote-_R23434)** — _n/a_ _(posted 2025-06-09)_
@@ -70,7 +68,6 @@ Browse a wide range of remote DevOps Engineer positions available globally. New 
 * **[Database Reliability Engineer III (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote-CA/Database-Reliability-Engineer-III--Remote-_R23300)** — _n/a_ _(posted 2025-05-23)_
 * **[Platform Security Engineer (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Platform-Security-Engineer--Remote-_R23281)** — _n/a_ _(posted 2025-05-23)_
 * **[Principal Software Engineer - Platform Architect, CI/CD (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Principal-Software-Engineer---Platform-Architect--CI-CD--Remote-_R22808)** — _n/a_ _(posted 2025-04-11)_
-* **[Sr. Site Reliability Engineer - GovCloud (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote-VA/Sr-Site-Reliability-Engineer---GovCloud--Remote-_R22540)** — _n/a_ _(posted 2025-03-13)_
 * **[Sr. Database Reliability Engineer (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote-CA/Sr-Database-Engineer--Remote-_R20365)** — _n/a_ _(posted 2025-02-26)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/sqbkzlv06ri5up7ea5sb.webp" width="24" height="24" alt="CSC Generation logo" style="vertical-align:middle"/>&nbsp;&nbsp;[CSC Generation](https://jobo.world/company/CSC-Generation)
@@ -154,6 +151,10 @@ Browse a wide range of remote DevOps Engineer positions available globally. New 
 
 * **[Staff Engineer, Distributed Systems](https://job-boards.greenhouse.io/launchdarkly/jobs/6614984003)** — _n/a_ _(posted 2025-06-21)_
 
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/bjxntapcwce90erhhj8b.webp" width="24" height="24" alt="Machinify logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Machinify](https://jobo.world/company/Machinify)
+
+* **[Senior Backend Engineer, Platform Team (Remote)](https://jobs.ashbyhq.com/machinify/5db1d0f6-a657-42fe-b471-8d81cebf2264)** — _n/a_ _(posted 2025-06-24)_
+
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/swemkb5unyfxq9mvoh58.webp" width="24" height="24" alt="Motional logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Motional](https://jobo.world/company/Motional)
 
 * **[Senior Site Reliability Engineer](https://job-boards.greenhouse.io/motional/jobs/6531206003)** — _n/a_ _(posted 2025-06-10)_
@@ -187,10 +188,6 @@ Browse a wide range of remote DevOps Engineer positions available globally. New 
 
 * **[Software Engineer, Full Stack (Platform) ](https://jobs.ashbyhq.com/radai/c1149a4e-8c78-4731-8398-46c0b6c6d28d)** — ¤125,000 – ¤150,000 USD _(posted 2025-06-19)_
 * **[Software Engineer, Full Stack ](https://jobs.ashbyhq.com/radai/13ccec43-7bc0-4fc6-bec2-2df2d8cb7448)** — ¤125,000 – ¤150,000 USD _(posted 2025-04-30)_
-
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/mryrjezblnfpjtjmae2c.webp" width="24" height="24" alt="Reddit logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Reddit](https://jobo.world/company/Reddit)
-
-* **[Senior Support Engineer, Operations &amp; Support](https://job-boards.greenhouse.io/reddit/jobs/6831257)** — _n/a_ _(posted 2025-04-25)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/tnxrusf4hvnspgsovgoz.webp" width="24" height="24" alt="Replicated logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Replicated](https://jobo.world/company/Replicated)
 
@@ -305,4 +302,4 @@ Browse a wide range of remote DevOps Engineer positions available globally. New 
 * **[Sr. Staff Site Reliability Engineer](https://job-boards.greenhouse.io/zscaler/jobs/4739118007)** — _n/a_ _(posted 2025-06-13)_
 
 ---
-_Updated automatically — 2025-06-24_
+_Updated automatically — 2025-06-25_
