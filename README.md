@@ -38,6 +38,7 @@ Browse a wide range of remote DevOps Engineer positions available globally. New 
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/o3acj3q6bo0xyuhtz8zv.webp" width="24" height="24" alt="Cars Commerce logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Cars Commerce](https://jobo.world/company/Cars-Commerce)
 
+* **[Sr. Software Engineer](https://cars.wd12.myworkdayjobs.com/cars/job/United-States-Remote/Sr-Software-Engineer--Core-Services_JR10660)** — _n/a_ _(posted 2025-07-10)_
 * **[DevOps Manager](https://cars.wd12.myworkdayjobs.com/cars/job/Remote---United-States/DevOps-Manager_JR10643)** — _n/a_ _(posted 2025-07-03)_
 * **[Software Engineer](https://cars.wd12.myworkdayjobs.com/cars/job/United-States-Remote/Software-Engineer_JR10397-1)** — _n/a_ _(posted 2025-06-20)_
 
@@ -77,7 +78,6 @@ Browse a wide range of remote DevOps Engineer positions available globally. New 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/qogfqwtschjchtjlzyr3.webp" width="24" height="24" alt="Crowdstrike logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Crowdstrike](https://jobo.world/company/Crowdstrike)
 
 * **[Sr. Engineer - Front End SDET (Remote, PST)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote-CA/Sr-Engineer---Front-End-SDET--Remote--PST-_R23836)** — _n/a_ _(posted 2025-07-09)_
-* **[Sr. Engineer - OverWatch Labs (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Sr-Engineer---OverWatch-Labs--Remote-_R23609)** — _n/a_ _(posted 2025-06-25)_
 * **[Continuous Improvement Engineer (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Continuous-Improvement-Engineer--Remote-_R23611)** — _n/a_ _(posted 2025-06-23)_
 * **[Sr. Detections Content Operations Engineer (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Sr-Detections-Content-Operations-Engineer--Remote-_R23529)** — _n/a_ _(posted 2025-06-18)_
 * **[Manager, Network Reliability Engineering (Remote, East Coast)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote-FL/Manager--Network-Reliability-Engineering--Remote--East-Coast-_R23495)** — _n/a_ _(posted 2025-06-17)_
@@ -151,10 +151,6 @@ Browse a wide range of remote DevOps Engineer positions available globally. New 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/c1quzk9ztnguozq9gkd5.webp" width="24" height="24" alt="Kustomer logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Kustomer](https://jobo.world/company/Kustomer)
 
 * **[Software Engineer, SRE (Staff/Senior Levels)](https://jobs.ashbyhq.com/kustomer/f41c5a98-1248-44c7-a2bb-880ef4ffcf90)** — _n/a_ _(posted 2025-06-28)_
-
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/jwxdgigobys7pie3h5ns.webp" width="24" height="24" alt="LaunchDarkly logo" style="vertical-align:middle"/>&nbsp;&nbsp;[LaunchDarkly](https://jobo.world/company/LaunchDarkly)
-
-* **[Staff Engineer, Distributed Systems](https://job-boards.greenhouse.io/launchdarkly/jobs/6614984003)** — _n/a_ _(posted 2025-06-21)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/bjxntapcwce90erhhj8b.webp" width="24" height="24" alt="Machinify logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Machinify](https://jobo.world/company/Machinify)
 
@@ -240,10 +236,6 @@ Browse a wide range of remote DevOps Engineer positions available globally. New 
 
 * **[Senior Software Engineer, Runtime](https://jobs.ashbyhq.com/sanity/1a65a601-7e23-46b7-8c40-2ac57e87bbab)** — _n/a_ _(posted 2025-06-11)_
 
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/zn4umzvmywnnpmqzyjoi.webp" width="24" height="24" alt="Sardine logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Sardine](https://jobo.world/company/Sardine)
-
-* **[DevOps Lead ](https://jobs.ashbyhq.com/sardine/7017acff-c1fa-4795-b56c-0dcd336687c5)** — _n/a_ _(posted 2025-04-23)_
-
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/dchccft73peyjb9awdqi.webp" width="24" height="24" alt="Serve Robotics logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Serve Robotics](https://jobo.world/company/Serve-Robotics)
 
 * **[Director of Engineering, Fleet Management Delivery Platform ](https://jobs.ashbyhq.com/serverobotics/3b5786c1-a16e-4132-b030-b824bd9e6a0a)** — ¤210,000 – ¤250,000 USD _(posted 2025-07-03)_
@@ -297,6 +289,11 @@ Browse a wide range of remote DevOps Engineer positions available globally. New 
 
 * **[DevOps Engineer](https://job-boards.greenhouse.io/tebra/jobs/4575246005)** — _n/a_ _(posted 2025-07-08)_
 
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/r40ajrc2uetxb7obycan.webp" width="24" height="24" alt="TetraScience logo" style="vertical-align:middle"/>&nbsp;&nbsp;[TetraScience](https://jobo.world/company/TetraScience)
+
+* **[DevOps Engineer- Boston](https://apply.workable.com/tetrascience/j/6AFF1294D4/)** — _n/a_ _(posted 2025-07-10)_
+* **[Senior Software Engineer - Customer Engineering](https://apply.workable.com/tetrascience/j/793F5A54B1/)** — _n/a_ _(posted 2025-07-10)_
+
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/sga8awyk2vu9tdgrwd55.webp" width="24" height="24" alt="Upgrade logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Upgrade](https://jobo.world/company/Upgrade)
 
 * **[Senior Site Reliability Engineer](https://job-boards.greenhouse.io/upgrade/jobs/4573185005)** — _n/a_ _(posted 2025-06-18)_
@@ -323,4 +320,4 @@ Browse a wide range of remote DevOps Engineer positions available globally. New 
 * **[DevOps Engineer](https://apply.workable.com/verinext/j/C0423284EA/)** — _n/a_ _(posted 2025-07-09)_
 
 ---
-_Updated automatically — 2025-07-11_
+_Updated automatically — 2025-07-12_
