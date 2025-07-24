@@ -21,7 +21,6 @@ Browse a wide range of remote DevOps Engineer positions available globally. New 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/xjv7yomvmvgq2zcdvckv.webp" width="24" height="24" alt="Affirm logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Affirm](https://jobo.world/company/Affirm)
 
 * **[Staff Software Engineer - SRE, Backend (Reliability Engineering)](https://job-boards.greenhouse.io/affirm/jobs/6356178003)** — _n/a_ _(posted 2025-05-21)_
-* **[Software Engineer II (Capacity Engineering)](https://job-boards.greenhouse.io/affirm/jobs/6346721003)** — _n/a_ _(posted 2025-04-23)_
 * **[Principal Software Engineer, Infrastructure Platform Engineering](https://job-boards.greenhouse.io/affirm/jobs/6482567003)** — _n/a_ _(posted 2025-03-30)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/hr15kfrnkqpkjlyedtzn.webp" width="24" height="24" alt="Alto Pharmacy logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Alto Pharmacy](https://jobo.world/company/Alto)
@@ -40,6 +39,14 @@ Browse a wide range of remote DevOps Engineer positions available globally. New 
 
 * **[Principal Platform Engineer - Americas](https://jobs.ashbyhq.com/ashby/213c15c5-8e96-4fce-82da-dab268edc4c0)** — ¤200,000 – ¤260,000 USD _(posted 2025-06-16)_
 * **[Principal Site Reliability Engineer - Americas](https://jobs.ashbyhq.com/ashby/443ded5b-4baf-4bdc-8081-1666b4cb7ee3)** — ¤200,000 – ¤260,000 USD _(posted 2025-06-16)_
+
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/lix4t9xeotpsufw7mosi.webp" width="24" height="24" alt="Astronomer logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Astronomer](https://jobo.world/company/Astronomer)
+
+* **[Cloud Solutions Architect, Infrastructure (Pacific)](https://jobs.ashbyhq.com/astronomer/4e5dac18-c6a8-46f4-94ad-d7fd9dbcb97b)** — _n/a_ _(posted 2025-06-27)_
+
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/o3cyuf7vmyhd1je7c0cy.webp" width="24" height="24" alt="Aura logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Aura](https://jobo.world/company/Aura)
+
+* **[DevOps Lead Architect](https://apply.workable.com/auria/j/EAB447C41F/)** — ¤145,000 – ¤170,000 USD _(posted 2025-04-24)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ph6ruwagmcxam6qc1xb9.webp" width="24" height="24" alt="Baseten logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Baseten](https://jobo.world/company/Baseten)
 
@@ -143,10 +150,6 @@ Browse a wide range of remote DevOps Engineer positions available globally. New 
 
 * **[Staff DevOps Engineer, Remote](https://jobs.smartrecruiters.com/Experian/744000071894525-staff-devops-engineer-remote?oga=true)** — _n/a_ _(posted 2025-07-21)_
 
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/qjzvua7bmfx6h8mziyhl.webp" width="24" height="24" alt="FiscalNote logo" style="vertical-align:middle"/>&nbsp;&nbsp;[FiscalNote](https://jobo.world/company/FiscalNote)
-
-* **[Lead Software Engineer, DevOps](https://jobs.lever.co/fiscalnote/2281962b-fcca-4d2b-b6a7-5a76fad52cde)** — _n/a_ _(posted 2025-05-30)_
-
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/aufxt7vekckmzzbpqelk.webp" width="24" height="24" alt="Fleetio logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Fleetio](https://jobo.world/company/Fleetio)
 
 * **[Senior Software Engineer, iOS Platform Engineering](https://boards.greenhouse.io/fleetio/jobs/4703303007)** — _n/a_ _(posted 2025-04-10)_
@@ -244,10 +247,6 @@ Browse a wide range of remote DevOps Engineer positions available globally. New 
 
 * **[Intermediate Database Reliability Engineer (US)](https://jobs.lever.co/pointclickcare/35bc0122-8900-4be5-b02d-60c9d97e529a)** — _n/a_ _(posted 2025-07-16)_
 
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ablwoksvyptzo6ebnwjy.webp" width="24" height="24" alt="PriceSpider logo" style="vertical-align:middle"/>&nbsp;&nbsp;[PriceSpider](https://jobo.world/company/PriceSpider)
-
-* **[DevOps Engineer III](https://job-boards.greenhouse.io/pricespider/jobs/8035406002)** — _n/a_ _(posted 2025-06-14)_
-
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/medp37fwznxooodxhybc.webp" width="24" height="24" alt="Privy logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Privy](https://jobo.world/company/Privy)
 
 * **[Senior/Staff Platform Software Engineer](https://jobs.ashbyhq.com/privy/4b3161d7-f508-44b3-9a7f-23448ab7664a)** — ¤170,000 – ¤250,000 USD _(posted 2025-03-25)_
@@ -276,6 +275,7 @@ Browse a wide range of remote DevOps Engineer positions available globally. New 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/dchccft73peyjb9awdqi.webp" width="24" height="24" alt="Serve Robotics logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Serve Robotics](https://jobo.world/company/Serve-Robotics)
 
 * **[Sr. DevOps / Infrastructure Engineer](https://jobs.ashbyhq.com/serverobotics/c1ae66e9-6d6d-4d45-bc4a-c10e22aa65a5)** — ¤150,000 – ¤200,000 USD _(posted 2025-03-12)_
+* **[Sr. Cloud Infrastructure Engineer](https://jobs.ashbyhq.com/serverobotics/84923368-9d5c-46d3-84a1-1c28c2645594)** — ¤150,000 – ¤200,000 USD _(posted 2025-03-12)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/qvec61w5vxhujtj0tdj6.webp" width="24" height="24" alt="SGNL logo" style="vertical-align:middle"/>&nbsp;&nbsp;[SGNL](https://jobo.world/company/SGNLai)
 
@@ -285,10 +285,6 @@ Browse a wide range of remote DevOps Engineer positions available globally. New 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/q5xyiduwqktmohaaxudf.webp" width="24" height="24" alt="Sleeper logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Sleeper](https://jobo.world/company/Sleeper)
 
 * **[DevOps / QA Engineer - Risk & Trading](https://jobs.ashbyhq.com/sleeper/afc8a0dd-0156-4d05-bfd0-0007a5bcfd00)** — _n/a_ _(posted 2025-06-26)_
-
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/cm90pm3xrssbotf11ab2.webp" width="24" height="24" alt="Solana Foundation logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Solana Foundation](https://jobo.world/company/Solana-Foundation)
-
-* **[Lead Software Engineer, Infrastructure](https://jobs.ashbyhq.com%2Fsolana%2520foundation%2Fbe383ac2-bb96-40ec-af49-7498eb590714)** — _n/a_ _(posted 2025-04-24)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/qzska8ypqmqsevnfvhod.webp" width="24" height="24" alt="Standard Bots logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Standard Bots](https://jobo.world/company/Standard-Bots)
 
@@ -339,9 +335,13 @@ Browse a wide range of remote DevOps Engineer positions available globally. New 
 
 * **[Software Engineer](https://job-boards.greenhouse.io/vectara/jobs/4731119008)** — _n/a_ _(posted 2025-05-24)_
 
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/pp9a1vcfqxflxrhibamz.webp" width="24" height="24" alt="Vercel logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Vercel](https://jobo.world/company/Vercel)
+
+* **[Software Engineer, CI/CD](https://job-boards.greenhouse.io/vercel/jobs/5532019004)** — _n/a_ _(posted 2025-05-06)_
+
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ptuq8bmeadcras6mz8tu.webp" width="24" height="24" alt="Verinext logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Verinext](https://jobo.world/company/Verinext)
 
 * **[DevOps Engineer](https://apply.workable.com/verinext/j/C0423284EA/)** — _n/a_ _(posted 2025-07-09)_
 
 ---
-_Updated automatically — 2025-07-23_
+_Updated automatically — 2025-07-24_
