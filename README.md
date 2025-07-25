@@ -10,10 +10,6 @@ Browse a wide range of remote DevOps Engineer positions available globally. New 
 
 * **[Senior Systems Engineer – Cloud Platform](https://acronis.wd3.myworkdayjobs.com/acronis_careers/job/USA---Remote/Senior-Systems-Engineer---Cloud-Platform_R-100335)** — _n/a_ _(posted 2025-06-27)_
 
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/cnatltnudekb0sa5af4e.webp" width="24" height="24" alt="Addepar logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Addepar](https://jobo.world/company/Addepar)
-
-* **[Forward Deployed Engineer](https://job-boards.greenhouse.io/addepar1/jobs/7760230002)** — _n/a_ _(posted 2025-07-10)_
-
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/onmz3yffvx4vbmprmkam.webp" width="24" height="24" alt="Aerospike logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Aerospike](https://jobo.world/company/Aerospike)
 
 * **[Staff Site Reliability Engineer](https://job-boards.greenhouse.io/aerospike/jobs/8067578002)** — _n/a_ _(posted 2025-07-09)_
@@ -145,6 +141,7 @@ Browse a wide range of remote DevOps Engineer positions available globally. New 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/nuj1aprpm0ufo9wwlehb.webp" width="24" height="24" alt="eBay logo" style="vertical-align:middle"/>&nbsp;&nbsp;[eBay](https://jobo.world/company/E-Bay)
 
 * **[Frontline Engineer](https://ebay.wd5.myworkdayjobs.com/apply/job/Remote-Pennsylvania/Frontline-Engineer_R0068091-2)** — _n/a_ _(posted 2025-07-16)_
+* **[Linux DevOps Engineer](https://ebay.wd5.myworkdayjobs.com/apply/job/Remote-United-States/Linux-DevOps-Engineer_R0067348)** — _n/a_ _(posted 2025-05-09)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/nerakkfib4vn5co7bmr3.webp" width="24" height="24" alt="Expedia logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Expedia](https://jobo.world/company/Expedia)
 
@@ -344,4 +341,4 @@ Browse a wide range of remote DevOps Engineer positions available globally. New 
 * **[DevOps Engineer](https://apply.workable.com/verinext/j/C0423284EA/)** — _n/a_ _(posted 2025-07-09)_
 
 ---
-_Updated automatically — 2025-07-24_
+_Updated automatically — 2025-07-25_
